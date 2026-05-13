@@ -1,0 +1,7 @@
+store\auth\AuthController.class
+store\auth\RegisterIn$RegisterInBuilder.class
+store\auth\LoginIn$LoginInBuilder.class
+store\auth\LoginIn.class
+store\auth\TokenOut.class
+store\auth\RegisterIn.class
+store\auth\TokenOut$TokenOutBuilder.class
